@@ -4,7 +4,7 @@ TinyMCE-Statistics
 A simple statistic plugin for TinyMCE 
 
 **Features**
- - Adds the menu item "View -> Statistcs"
+ - Adds the menu item "View -> Statistics"
  - Shows the number of words and characters and calculates the average word length
  - Shows the number of links, images, tables and lists if the respective plugins are installed
 
